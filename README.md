@@ -1,4 +1,7 @@
-### Hi there 👋
+### Travis' neck of the GitHub woods...
+
+Welcome to my GitHub profile! Below I've tried to organize my repositories so you can known what's most important and also get a little background on why started them in the first place and whether they are still active.
+
 
 <!--
 **travishathaway/travishathaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
