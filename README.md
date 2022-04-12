@@ -4,15 +4,14 @@ Welcome to my GitHub profile! Below I've tried to organize my repositories so yo
 
 
 
+<!--
+
 | Project | Description | Link |
 |---------|-------------|------|
 |         |             |      |
 |         |             |      |
 |         |             |      |
 
-
-
-<!--
 **travishathaway/travishathaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
