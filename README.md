@@ -2,24 +2,16 @@
 
 Welcome to my GitHub profile! Plenty of stuff to check out, so take a look 👀.
 
-<!--
+Here's some of the things I'm currently working on:
 
-| Project | Description | Link |
-|---------|-------------|------|
-|         |             |      |
-|         |             |      |
-|         |             |      |
+### [osmprj](https://github.com/travishathaway/osmprj)
 
-**travishathaway/travishathaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project aims to bring package manager style project management to working with OpenStreetMap data in PostgreSQL. Check out the project board for all active work:
 
-Here are some ideas to get you started:
+- https://github.com/users/travishathaway/projects/1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Link to project:
+
+- https://github.com/travishathaway/osmprj
+
+<img src="https://osmprj.dev/img/osmprj-logo-big.png" width="100" />
